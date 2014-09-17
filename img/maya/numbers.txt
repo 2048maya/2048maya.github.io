@@ -1,0 +1,11 @@
+2	 - Kitti	 - OK
+4	 - Pac-Lady	 - OK
+8	 - ?????	 - TODO
+16	 - ?????	 - TODO
+32	 - sleep maya	 - TODO
+64	 - Penguin	 - OK
+128	 - Doge 	 - OK
+256	 - Minion 1	 - OK
+512	 - Minion 2	 - OK
+1024	 - Noam 	 - OK
+2048	 - Maya 	 - OK
