@@ -7,6 +7,10 @@ html, body {
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
+.preload {
+    display: none !important;
+}
+
 body {
   margin: 80px 0; }
 
