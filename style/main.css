@@ -99,6 +99,24 @@ h1.title {
 .best-container:after {
   content: "Best"; }
 
+.heart {
+  color: #bbada0;
+  float: center;
+  text-align: left;
+  font-size: 50px;
+  height: 25px;
+  vertical-align: 50%;
+}
+
+.heart-below {
+  color: #bbada0;
+  float: center;
+  text-align: center;
+  font-size: 50px;
+  height: 25px;
+  vertical-align: 50%;
+}
+
 p {
   margin-top: 0;
   margin-bottom: 10px;
@@ -112,6 +130,9 @@ a {
 
 strong.important {
   text-transform: uppercase; }
+
+strong.color {
+    color: #776e65; }
 
 hr {
   border: none;
