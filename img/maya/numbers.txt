@@ -1,8 +1,8 @@
 2	 - Kitti	 - OK
 4	 - Pac-Lady	 - OK
-8	 - Nespresso	 - TODO
-16	 - Louie CK	 - TODO
-32	 - sleep maya	 - TODO
+8	 - Nespresso	 - OK
+16	 - Louie CK	 - OK
+32	 - sleep maya	 - OK
 64	 - Penguin	 - OK
 128	 - Doge 	 - OK
 256	 - Minion 1	 - OK
